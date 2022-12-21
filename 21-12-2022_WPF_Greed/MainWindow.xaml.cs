@@ -34,47 +34,47 @@ namespace _21_12_2022_WPF_Greed
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            this.result.Text = Button.NameProperty.Name;
+            this.result.Text = "1";
         }
 
         private void Button_Click_1(object sender, RoutedEventArgs e)
         {
-            this.result.Text = "1";
+            this.result.Text = "2";
         }
 
         private void Button_Click_2(object sender, RoutedEventArgs e)
         {
-            this.result.Text = "2";
+            this.result.Text = "3";
         }
 
         private void Button_Click_3(object sender, RoutedEventArgs e)
         {
-            this.result.Text = "3";
+            this.result.Text = "4";
         }
 
         private void Button_Click_4(object sender, RoutedEventArgs e)
         {
-            this.result.Text = "4";
+            this.result.Text = "5";
         }
 
         private void Button_Click_5(object sender, RoutedEventArgs e)
         {
-            this.result.Text = "5";
+            this.result.Text = "6";
         }
 
         private void Button_Click_6(object sender, RoutedEventArgs e)
         {
-            this.result.Text = "6";
+            this.result.Text = "7";
         }
 
         private void Button_Click_7(object sender, RoutedEventArgs e)
         {
-            this.result.Text = "7";
+            this.result.Text = "8";
         }
 
         private void Button_Click_8(object sender, RoutedEventArgs e)
         {
-            this.result.Text = "8";
+            this.result.Text = "9";
         }
     }
 }
